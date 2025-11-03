@@ -1,0 +1,13 @@
+{
+  "name": "hospital-management-system",
+  "version": "1.0.0",
+  "description": "A **Role-Based Hospital Management System** backend built with **Node.js**, **Express**, **MongoDB**, and **JWT**. It enables secure management of patients, doctors, appointments, and medical records with role-based access for Admins, Doctors, Nurses, Receptionists, and Patients to streamline hospital operations efficiently.",
+  "license": "ISC",
+  "author": "Wasiq Afnan Ansari",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  }
+}
